@@ -1,0 +1,30 @@
+applicant 134364: Edward Miller
+applicant 663501: Joseph Davis
+applicant 885125: George Chua
+applicant 480472: Kristina Bartolome
+lineup 134364: 1
+Assign mobile # +639303937828, to applicant 134364:Edward Miller of Muntinlupa, born December 1, 1984.
+applicant 937049: Leah Green
+applicant 15808: Christopher Adams
+lineup 480472: 4
+lineup 15808: 6
+Assign mobile # +639302761510, to applicant 480472:Kristina Bartolome of Dasmarinas, Cavite, born June 9, 1982.
+applicant 7426: Laura Hill
+applicant 965491: Maria Taylor
+applicant 737538: Brian Santos
+applicant 366190: Barbara Harris
+lineup 965491: 8
+lineup 737538: 9
+lineup 885125: 3
+lineup 366190: 10
+Assign mobile # +639303552749, to applicant 885125:George Chua of Muntinlupa, born June 9, 1981.
+Assign mobile # +639309392242, to applicant 15808:Christopher Adams of Manila, born December 17, 1984.
+Assign mobile # +639308671340, to applicant 965491:Maria Taylor of Quezon City, born June 28, 1986.
+Assign mobile # +639303915344, to applicant 737538:Brian Santos of Makati City, born November 16, 1985.
+lineup 7426: 7
+lineup 663501: 2
+lineup 937049: 5
+Assign mobile # +639303017280, to applicant 663501:Joseph Davis of Paranaque, born July 0, 1988.
+Assign mobile # +639309995851, to applicant 937049:Leah Green of Muntinlupa, born December 22, 1981.
+Assign mobile # +639308544084, to applicant 7426:Laura Hill of Dasmarinas, Cavite, born September 26, 1982.
+Assign mobile # +639306480989, to applicant 366190:Barbara Harris of Muntinlupa, born December 1, 1990.

@@ -1,0 +1,60 @@
+applicant 298766: Thomas King
+applicant 69011: Anthony Turner
+lineup 298766: 1
+Assign mobile # +639303937828, to applicant 298766:Thomas King of Sta. Rosa, Laguna, born February 20, 1993.
+applicant 526142: Laura Tan
+applicant 308141: Rachelle Cruz
+applicant 885168: Anne White
+applicant 398961: Margaret Martin
+applicant 138340: Grace Sy
+applicant 334954: James White
+applicant 985105: Daniel Mendoza
+applicant 997291: Kevin Wilson
+applicant 932897: Susan Allen
+lineup 398961: 6
+lineup 138340: 7
+lineup 885168: 5
+Assign mobile # +639302761510, to applicant 885168:Anne White of Sta. Rosa, Laguna, born June 26, 1987.
+Assign mobile # +639303552749, to applicant 398961:Margaret Martin of Manila, born October 28, 1985.
+applicant 178932: Michelle Smith
+applicant 452651: Denise Parker
+applicant 986960: Veronica White
+applicant 158107: Elizabeth Santos
+applicant 681090: David Baker
+applicant 449538: Kevin Green
+applicant 536303: Kristina Scott
+applicant 661210: John Robinson
+applicant 979589: Laura Perez
+lineup 449538: 17
+lineup 986960: 14
+lineup 932897: 11
+lineup 661210: 19
+lineup 979589: 20
+lineup 536303: 18
+lineup 158107: 15
+lineup 526142: 3
+lineup 997291: 10
+Assign mobile # +639309392242, to applicant 526142:Laura Tan of Pateros, born May 6, 1988.
+Assign mobile # +639308671340, to applicant 138340:Grace Sy of Antipolo City, born May 26, 1983.
+Assign mobile # +639303915344, to applicant 997291:Kevin Wilson of Tanay, Rizal, born April 25, 1989.
+Assign mobile # +639303017280, to applicant 932897:Susan Allen of Taguig, born August 8, 1989.
+Assign mobile # +639309995851, to applicant 986960:Veronica White of Malabon, born August 6, 1982.
+Assign mobile # +639308544084, to applicant 158107:Elizabeth Santos of Pateros, born April 25, 1982.
+Assign mobile # +639306480989, to applicant 449538:Kevin Green of Tagaytay City, born October 14, 1983.
+lineup 334954: 8
+lineup 69011: 2
+lineup 985105: 9
+lineup 308141: 4
+lineup 178932: 12
+lineup 681090: 16
+lineup 452651: 13
+Assign mobile # +639302498163, to applicant 69011:Anthony Turner of Sta. Rosa, Laguna, born December 21, 1989.
+Assign mobile # +639304322118, to applicant 308141:Rachelle Cruz of Antipolo City, born June 25, 1988.
+Assign mobile # +639306109687, to applicant 334954:James White of Makati City, born June 2, 1991.
+Assign mobile # +639304869954, to applicant 985105:Daniel Mendoza of Las Pinas, born November 2, 1983.
+Assign mobile # +639305809147, to applicant 178932:Michelle Smith of Kalookan, born May 5, 1985.
+Assign mobile # +639305578801, to applicant 452651:Denise Parker of Sta. Rosa, Laguna, born January 27, 1989.
+Assign mobile # +639307523083, to applicant 681090:David Baker of Quezon City, born May 23, 1993.
+Assign mobile # +639304624825, to applicant 536303:Kristina Scott of Manila, born January 16, 1992.
+Assign mobile # +639302866744, to applicant 661210:John Robinson of Paranaque, born March 5, 1990.
+Assign mobile # +639305976049, to applicant 979589:Laura Perez of Pateros, born January 28, 1990.
